@@ -4,7 +4,7 @@
 
 Sometimes my ATmega328(P) aka Arduino Nano isn't accessible via USB anymore
 after flashing. To recover it an [USBasp](http://www.fischl.de/usbasp) and some
-special avr-dude parameters are needed.
+special AVRDUDE parameters are needed.
 
 
 ## Recover Atmega328P via USBasp Programmer
